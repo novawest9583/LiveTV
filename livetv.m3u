@@ -1,120 +1,119 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="News" ,LiveNOW from FOX
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png" ,LiveNOW from FOX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 group-title="News" ,Real America's Voice
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/250px-Logo_Real_America%27s_Voice.svg.png" ,Real America's Voice
 https://wurlperformanceonemedia.global.transmit.live/hls/69d93e1344d5f8fbce12e874/v1/p1media_americasvoice_1/lg_us/latest/main/hls/AVWurlTRCABR.m3u8
-#EXTINF:-1 group-title="News" ,The First TV
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_First_TV_logo.png/250px-The_First_TV_logo.png" ,The First TV
 https://thefirst-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" ,Newsmax
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/250px-Newsmax_logo.svg.png" ,Newsmax
 https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8
-#EXTINF:-1 group-title="News" ,OAN Plus
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/250px-One_America_News_Network_logo.svg.png" ,OAN Plus
 https://amgx0019-amagicontentplu-oneamericanews-tcl-ideo-toha9.amagi.tv/playlist/amgx0019-amagicontentplu-oneamericanews-tcl-ideo/playlist.m3u8
-#EXTINF:-1 group-title="News" ,Euronews
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" ,Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 group-title="News" ,BBC News
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/250px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="News" ,France 24
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/250px-France_24_logo_%282013%29.svg.png" ,France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="News" ,Al Jazeera
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/250px-Aljazeera_eng.svg.png" ,Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="News" ,CGTN News
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CGTN-America_Logo.svg/250px-CGTN-America_Logo.svg.png" ,CGTN News
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="News" ,i24NEWS
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/250px-LOGO_i24NEWS.png" ,i24NEWS
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-#EXTINF:-1 group-title="News" ,Free Speech TV
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo_Free_Speech_TV.svg/250px-Logo_Free_Speech_TV.svg.png" ,Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1 group-title="News" ,NTD TV
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/330px-NTD_Logo_with_symbol.svg.png" ,NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="News" ,Bloomberg TV+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/250px-New_Bloomberg_Logo.svg.png" ,Bloomberg TV+
 https://def7942b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQmxvb21iZXJnVFZQbHVzU2FmZUNBX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" ,Bloomberg Originals
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/250px-New_Bloomberg_Logo.svg.png" ,Bloomberg Originals
 https://e55ff5c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQmxvb21iZXJnT3JpZ2luYWxzU2FmZUNBX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" ,CGTN Documentary
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/250px-CGTN_Documentary.svg.png" ,CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Documentary" ,Court TV Legendary Trials
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Court_TV_2019.svg/250px-Court_TV_2019.svg.png" ,Court TV Legendary Trials
 https://d73c4df2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ291cnRUVkxlZ2VuZGFyeVRyaWFsc19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Education" ,PBS WKMJ Louisville KY
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kentucky_Educational_Television_logo.svg/250px-Kentucky_Educational_Television_logo.svg.png" ,PBS WKMJ Louisville KY
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 group-title="Education" ,PBS WMBP Baltimore MD
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Maryland_Public_Television_2004_vector_logo.svg/250px-Maryland_Public_Television_2004_vector_logo.svg.png" ,PBS WMBP Baltimore MD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 group-title="Education" ,PBS Create
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/250px-Create_TV_network_logo.svg.png" ,PBS Create
 https://create.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="Education" ,PBS World Channel
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/250px-World_Channel_2023.svg.png" ,PBS World Channel
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="Education" ,PBS FNX
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FNX_Web_Logo.png/250px-FNX_Web_Logo.png" ,PBS FNX
 https://fnx.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="Weather" ,Fox Weather
+#EXTINF:-1 group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/250px-Fox-weather-logo-stacked-color.svg.png" ,Fox Weather
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8
-#EXTINF:-1 group-title="Weather" ,WeatherNation
+#EXTINF:-1 group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/250px-WeatherNation_Logo.svg.png" ,WeatherNation
 https://dada973c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fV2VhdGhlck5hdGlvblRWX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Weather" ,AccuWeather
+#EXTINF:-1 group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AccuWeather_2021.svg/250px-AccuWeather_2021.svg.png" ,AccuWeather
 https://accuweatherx-lg.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-lg/CDN/master.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Charge!
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/330px-Charge%21_Logo_2020.svg.png" ,Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Comet
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/250px-Comet_logo.svg.png" ,Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Roar
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/250px-Roar_%282025%29.svg.png" ,Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,The Nest
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/250px-The_Nest_2023.svg.png" ,The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Court TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Court_TV_2019.svg/250px-Court_TV_2019.svg.png" ,Court TV
 https://wurlewscripps.global.transmit.live/hls/68fbfd86adbc824c98c44faa/v1/scripps_courttv_3/lg_ca/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Law & Crime
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Law_%26_Crime_watermark_1.png" ,Law & Crime
 https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,AWE Network
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_%28platinum%29.jpg/250px-AWE_Logo_%28platinum%29.jpg" ,AWE Network
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,REELZ Famous & Infamous
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/250px-Reelz.svg.png" ,REELZ Famous & Infamous
 https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Curiosity Now
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/250px-CuriosityStreamBlack.svg.png" ,Curiosity Now
 https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgca/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,InTrouble
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,InTrouble
 https://amg00861-amg00861c6-tclideo-na-2955.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-tclideona/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,TruBlu
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vhx.imgix.net/trublu/assets/89389e25-960c-4ba8-b293-2f3f6e1f2192.png" ,TruBlu
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,H2O TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2024/10/h20-212.png" ,H2O TV
 https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Pure Flix
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Great_American_Pure_Flix_logo.jpg" ,Pure Flix
 https://amg01884-gac-amg01884c1-tablo-us-7441.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,RACER Select
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5b78a1ca-2f4e-401b-8a7a-3e912ccceb0b%2FRACER_Select_logo_1500x1000.png" ,RACER Select
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Positiv TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" ,Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
-#EXTINF:-1 group-title="Religious" ,TBN
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trinity_Broadcasting_Network_logo_%282016%29.svg/500px-Trinity_Broadcasting_Network_logo_%282016%29.svg.png" ,TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
-#EXTINF:-1 group-title="Religious" ,Daystar TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg/250px-Daystar_%282008%E2%80%93present%29_unmodified_logo.svg.png" ,Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,The Word Network
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TWN_LOGO_1.png/250px-TWN_LOGO_1.png" ,The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,3ABN
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/250px-3ABN_logo.svg.png" ,3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,3ABN Dare To Dream
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/250px-3ABN_logo.svg.png" ,3ABN Dare To Dream
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,3ABN Proclaim!
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/250px-3ABN_logo.svg.png" ,3ABN Proclaim!
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,CBN News
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CBN_Network_logo.svg/250px-CBN_Network_logo.svg.png" ,CBN News
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 group-title="Religious" ,CBN Family
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CBN_Network_logo.svg/250px-CBN_Network_logo.svg.png" ,CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
-#EXTINF:-1 group-title="Religious" ,LLBN His Word
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/LLBN_International_logo.jpg/250px-LLBN_International_logo.jpg" ,LLBN His Word
 https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
-#EXTINF:-1 group-title="Religious" ,LLBN His Light
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/LLBN_International_logo.jpg/250px-LLBN_International_logo.jpg" ,LLBN His Light
 https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
-#EXTINF:-1 group-title="Religious" ,LLBN Smart LifeStyle TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/LLBN_International_logo.jpg/250px-LLBN_International_logo.jpg" ,LLBN Smart LifeStyle TV
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
-#EXTINF:-1 group-title="Religious" ,TCT Network
+#EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TCT-Logo-Updated.png" ,TCT Network
 https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,World Harvest TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://fambroadcast.wpengine.com/wp-content/uploads/2022/10/wht-s.jpg" ,World Harvest TV
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,InTouch+
+#EXTINF:-1 group-title="Religious" tvg-logo="https://www.intouchcanada.org/assets/images/logo-white-ca.svg" ,InTouch+
 https://amg01540-apexmedia-amg01540c2-tclideo-northamerica-983.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-tclideonorthamerica/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,Amazing Discoveries TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://image.roku.com/channels/images/3b5b39aac49c4d15820de2663570affd-hd.jpg" ,Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,Cornerstone TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://ctvn.org/content/uploads/2022/06/cornerstone-network-3d-logo-white-1-e1656090230659.png" ,Cornerstone TV
 https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
-#EXTINF:-1 group-title="Religious" ,God's Learning Channel
+#EXTINF:-1 group-title="Religious" tvg-logo="https://static1.squarespace.com/static/6289143dbd52c33217e90fe3/t/62a3756d5c586203dbd7265b/1654879597286/GLC+TV+xtraLARGE.png" ,God's Learning Channel
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
-#EXTINF:-1 group-title="Shopping" tvg-id="KPCBDT171.us@SD" ,QVC
+#EXTINF:-1 group-title="Shopping" tvg-id="KPCBDT171.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1280px-QVC_logo_2019.svg.png" ,QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
-#EXTINF:-1 group-title="Shopping" tvg-id="KPCBDT171.us@SD" ,HSN
+#EXTINF:-1 group-title="Shopping" tvg-id="KPCBDT171.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1280px-HSN_logo.svg.png" ,HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
-
