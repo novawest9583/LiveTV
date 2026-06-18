@@ -49,12 +49,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious
 https://dada973c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fV2VhdGhlck5hdGlvblRWX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AccuWeather_2021.svg/250px-AccuWeather_2021.svg.png" ,AccuWeather
 https://accuweatherx-lg.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-lg/CDN/master.m3u8
-#EXTINF:0 group-title="Entertainment" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/a38d22de-4b7a-4901-b16c-16652c02bb58/Retro_banner.png" ,RetroTV
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/KNm-AYZYb0C-7tIPEazOEg/1781797485/media_mpegts_0.m3u8
-#EXTINF:0 group-title="Entertainment" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1777041393828-RWATZ7KMWJ8XES7SDBI6/RevnAction_RGB_Logo_Black%2Bcopy.png" ,Rev'N
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/le8-ROlvKO1HCm_M2i07BA/1781797743/media_mpegts_0.m3u8
-#EXTINF:0 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" ,Heartland TV
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278943/mQJDUdl2aBhOda8x6RGXaQ/1781797785/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/330px-Charge%21_Logo_2020.svg.png" ,Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/250px-Comet_logo.svg.png" ,Comet
