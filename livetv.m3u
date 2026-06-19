@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 group-title="News" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CBC News
 https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CTV News
+https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,NBC News NOW
@@ -81,6 +83,8 @@ https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d
 https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Grit Xtra
 https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Merit Street
+https://jmp2.uk/rok-f82edff34af287f3d8fe9d9098d45404.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,At the Movies
 https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Showtime
