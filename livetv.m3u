@@ -1,8 +1,10 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CBC News
-https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CBC News Network
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CTV News
 https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CityNews
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,NBC News NOW
@@ -25,7 +27,7 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/am
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Scripps News
 https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8
-#EXTINF:-1 group-title="LiveTVs" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Al Jazeera
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CGTN News
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
@@ -63,6 +65,8 @@ https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08
 https://dada973c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fV2VhdGhlck5hdGlvblRWX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,AccuWeather
 https://accuweatherx-lg.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-lg/CDN/master.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CBC CBHT Halifax NS
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,ION
 https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,ION Mystery
@@ -93,6 +97,8 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CW WGN Chicago IL
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,KCWX San Antonio TX
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,AWE Network
@@ -103,6 +109,8 @@ http://23.237.104.106:8080/USA_REELZ/index.m3u8
 https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Curiosity Now
 https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgca/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,InWonder
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,InTrouble
 https://amg00861-amg00861c6-tclideo-na-2955.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-tclideona/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,TruBlu
