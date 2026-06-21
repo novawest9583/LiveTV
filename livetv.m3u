@@ -101,7 +101,7 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,AWE Network
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png",Reelz
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,REELZ Famous & Infamous
 https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8
@@ -111,10 +111,14 @@ https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist/amg00170-c
 https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,InTrouble
 https://amg00861-amg00861c6-tclideo-na-2955.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,TruBlu
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,H2O TV
 https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Pursuit UP
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Pure Flix
 https://amg01884-gac-amg01884c1-tablo-us-7441.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,RACER Select
