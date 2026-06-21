@@ -79,6 +79,10 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CW Gold
+https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,CW Forever
+https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Bounce XL
 https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,BUZZR
@@ -87,6 +91,8 @@ https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e4
 https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Laff More
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Get TV
+https://936eb58d25e945d0af0b4cfa55782186.mediatailor.us-east-1.amazonaws.com/v1/master/a9612d00d57e68d5b24dc4bc6433efeb41f5dc07/LINEAR-1074-GETTV-TCLTV/playlist.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Merit Street
 https://jmp2.uk/rok-f82edff34af287f3d8fe9d9098d45404.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,At the Movies
