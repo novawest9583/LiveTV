@@ -105,6 +105,8 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,KCWX San Antonio TX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,FOX Network East
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 group-title="LiveTV" tvg-logo="https://kodi.tv/images/addons/omega/pvr.iptvsimple/icon.png" ,AWE Network
