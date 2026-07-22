@@ -1,58 +1,44 @@
-#EXTM3U
-#EXTINF:0 group-title="TV Channels" ,Charge!
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTINF:0 CUID="1" tvg-name="Charge!" tvg-id="Charge!.us" group-title="TV Channels",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,Comet
+#EXTINF:0 CUID="2" tvg-name="Comet" tvg-id="Comet.us" group-title="TV Channels",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,The Nest
+#EXTINF:0 CUID="3" tvg-name="The Nest" tvg-id="TheNest.us" group-title="TV Channels",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,Roar!
+#EXTINF:0 CUID="4" tvg-name="Roar!" tvg-id="Roar.us" group-title="TV Channels",Roar!
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,MeTV Network
+#EXTINF:0 CUID="5" tvg-name="MeTV Network" tvg-id="MeTV.us" group-title="TV Channels",MeTV Network
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,Movies!
+#EXTINF:0 CUID="6" tvg-name="Movies!" tvg-id="Movies!.us" group-title="TV Channels",Movies!
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,TBS Network
+#EXTINF:0 CUID="7" tvg-name="TBS Network" tvg-id="TBS.us" group-title="TV Channels",TBS Network
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_4_1064000.m3u8
-#EXTINF:0 group-title="TV Channels" ,Turner Network TV
+#EXTINF:0 CUID="8" tvg-name="Turner Network TV" tvg-id="TNT.us" group-title="TV Channels",Turner Network TV
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_4_1064000.m3u8
-#EXTINF:0 group-title="TV Channels" ,TruTV Network
+#EXTINF:0 CUID="9" tvg-name="TruTV Network" tvg-id="truTV.us" group-title="TV Channels",TruTV Network
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_4_1064000.m3u8
-#EXTINF:0 group-title="TV Channels" ,Adult Swim Network
+#EXTINF:0 CUID="10" tvg-name="Adult Swim Network" tvg-id="CartoonNetwork.us" group-title="TV Channels",Adult Swim Network
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:0 group-title="TV Channels" ,Turner Classics Movies
+#EXTINF:0 CUID="11" tvg-name="Turner Classics Movies" tvg-id="TCM.us" group-title="TV Channels",Turner Classics Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:0 group-title="TV Channels" ,ion TV
+#EXTINF:0 CUID="12" tvg-name="ion TV" tvg-id="IonTV.us" group-title="TV Channels",ion TV
 https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,ion TV Mystery
+#EXTINF:0 CUID="13" tvg-name="ion TV Mystery" tvg-id="IonMystery.us" group-title="TV Channels",ion TV Mystery
 https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,Bounce XL
+#EXTINF:0 CUID="14" tvg-name="Bounce XL" tvg-id="BounceXL.us" group-title="TV Channels",Bounce XL
 https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,Grit Xtra
+#EXTINF:0 CUID="15" tvg-name="Grit Xtra" tvg-id="GritXtra.us" group-title="TV Channels",Grit Xtra
 https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,Laff More
+#EXTINF:0 CUID="16" tvg-name="Laff More" tvg-id="LaffMore.us" group-title="TV Channels",Laff More
 https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scripps_laffmore_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,Buzzr!
+#EXTINF:0 CUID="17" tvg-name="Buzzr!" tvg-id="BUZZR.us" group-title="TV Channels",Buzzr!
 https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,Game Show Central
+#EXTINF:0 CUID="18" tvg-name="Game Show Central" tvg-id="GameShowCentral.us" group-title="TV Channels",Game Show Central
 https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,AWE Plus
+#EXTINF:0 CUID="19" tvg-name="AWE Plus" tvg-id="AWEPlus.us" group-title="TV Channels",AWE Plus
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,MPT PBS Bultimore MD
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,KET PBS Louisville KY
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,PBS Create
-https://create.lls.pbs.org/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,PBS World
-https://world.lls.pbs.org/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,PBS FNX
-https://fnx.lls.pbs.org/index.m3u8
-#EXTINF:0 group-title="TV Channels" ,NewsMax2
+#EXTINF:0 CUID="25" tvg-name="NewsMax2" tvg-id="Newsmax2.us" group-title="TV Channels",NewsMax2
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,OAN Plus
+#EXTINF:0 CUID="26" tvg-name="OAN Plus" tvg-id="OANPlus.us" group-title="TV Channels",OAN Plus
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
-#EXTINF:0 group-title="TV Channels" ,Real America's Voice
-https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
-
-
 
