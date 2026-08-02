@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTINF:-1 tvg-id="IonTV.us" group-title="Live Channels",Ion TV
+https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
+#EXTINF:-1 tvg-id="IonMystery.us" group-title="Live Channels",Ion TV Mystery
+https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
+#EXTINF:-1 tvg-id="BounceXL.us" group-title="Live Channels",Bounce XL
+https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8
+#EXTINF:-1 tvg-id="GritXtra.us" group-title="Live Channels",Grit Xtra
+https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
+#EXTINF:-1 tvg-id="LaffMore.us" group-title="Live Channels",Laff More
+https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scripps_laffmore_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Charge!.us" group-title="Live Channels",Charge
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us" group-title="Live Channels",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="TheNest.us" group-title="Live Channels",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="Roar.us" group-title="Live Channels",Roar
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us" group-title="Live Channels",MeTV Network
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+#EXTINF:-1 tvg-id="Movies!.us" group-title="Live Channels",Movies!
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 tvg-id="StoryTelevision.us" group-title="Live Channels",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroTV.us" group-title="Live Channels",Retro TV
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
+#EXTINF:-1 tvg-id="HeartlandTV.us" group-title="Live Channels",Heartland
+https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8
+#EXTINF:-1 tvg-id="HitSitcoms.pluto" group-title="Live Channels",Hit Sitcoms
+https://live-manifest.production-public.tubi.io/live/6b33d5c1-455e-4616-92a8-761fe87711e8/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" group-title="Live Channels",Court TV
+https://live-manifest.production-public.tubi.io/live/a0044921-4b6f-4e55-bf67-d51471db8b3f/playlist.m3u8
+#EXTINF:-1 tvg-id="BUZZR.us" group-title="Live Channels",Buzzr!
+https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowCentral.us" group-title="Live Channels",Game Shows Central
+https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" group-title="Live Channels",Comedy Dynamics
+https://live-manifest.production-public.tubi.io/live/f35167dd-e5c5-4ab4-8741-85e9bfcb0192/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" group-title="Live Channels",FailArmy
+https://live-manifest.production-public.tubi.io/live/5fd9c7cd-53e4-445e-81c9-6bc717e0bcb7/playlist.m3u8
+#EXTINF:-1 tvg-id="LOLNetwork.us" group-title="Live Channels",LOL Network
+https://live-manifest.production-public.tubi.io/live/0bd86fc8-d100-4653-be35-26a466381a55/playlist.m3u8
+#EXTINF:-1 tvg-id="AtTheMovies.us" group-title="Live Channels",At the Movies
+https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="Live Channels",ABC News
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow.us" group-title="Live Channels",NBC News Now
+https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" group-title="Live Channels",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="Live Channels",Livenow from FOX
+https://live-manifest.production-public.tubi.io/live/8127bb63-a43e-4859-8681-7c1ad6192796/playlist.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us" group-title="Live Channels",Scripps News
+https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsXtra.us" group-title="Live Channels",Bein Sports Xtra
+https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8
+#EXTINF:-1 tvg-id="ScrippsSportsNetwork.us" group-title="Live Channels",Scripps Sports Network
+https://live-manifest.production-public.tubi.io/live/001d9604-4483-4da4-9504-dc20fa2cd168/playlist.m3u8
+#EXTINF:-1 tvg-id="WatchAEW.us" group-title="Live Channels",Watch AEW
+https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d62684f51a7/playlist.m3u8
