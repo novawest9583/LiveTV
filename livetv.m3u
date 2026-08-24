@@ -1,61 +1,142 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz"
-#EXTINF:-1 tvg-id="IonTV.us" group-title="Live Channels",Ion TV
+#EXTM3U
+#EXTINF:-1 tvg-name="CBC News" group-title="News Channels",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" group-title="News Channels",NBC News Now
+https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
+#EXTINF:-1 tvg-name="LiveNow from FOX" group-title="News Channels",LiveNow from FOX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="NewsMax 2" group-title="News Channels",NewsMax 2
+https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxottall-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Reuters News" group-title="News Channels",Reuters News
+https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Real American Voice" group-title="News Channels",Real American Voice
+https://wurlperformanceonemedia.global.transmit.live/hls/69d93e1344d5f8fbce12e874/v1/p1media_americasvoice_1/lg_us/latest/main/hls/AVWurlTRCABR.m3u8
+#EXTINF:-1 tvg-name="BBC News" group-title="News Channels",BBC News
+https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Salem News Channel" group-title="News Channels",Salem News Channel
+https://amg00732-amg00732c2-stirr-us-8938.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN News" group-title="News Channels",OAN News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TheF1rst News" group-title="News Channels",TheF1rst News
+https://thefirst-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="WeatherNation" group-title="News Channels",WeatherNation
+https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" group-title="News Channels",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-name="CTV Toronto ON" group-title="Canadian TV",CTV Toronto ON
+http://stream.cammonitorplus.net/1712/index.m3u8
+#EXTINF:-1 tvg-name="CTV2 Halifax, NS" group-title="Canadian TV",CTV2 Halifax, NS
+http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1 tvg-name="CP24 Toronto ON" group-title="Canadian TV",CP24 Toronto ON
+https://tvsen6.aynaott.com/cp24/index.m3u8
+#EXTINF:-1 tvg-name="BC Knowledge Network" group-title="Canadian TV",BC Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-name="ION TV" group-title="ION Channels",ION TV
 https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="IonMystery.us" group-title="Live Channels",Ion TV Mystery
-https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="BounceXL.us" group-title="Live Channels",Bounce XL
+#EXTINF:-1 tvg-name="ION Plus" group-title="ION Channels",ION Plus
+https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_ion_plus_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Mystery" group-title="ION Channels",ION Mystery
+https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Bounce XL" group-title="ION Channels",Bounce XL
 https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="GritXtra.us" group-title="Live Channels",Grit Xtra
-https://wurlewscripps.global.transmit.live/hls/68f6af393617a3dcae3e8c17/v1/scripps_gritxtra_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="LaffMore.us" group-title="Live Channels",Laff More
+#EXTINF:-1 tvg-name="Laff! More" group-title="ION Channels",Laff! More
 https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scripps_laffmore_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Charge!.us" group-title="Live Channels",Charge
+#EXTINF:-1 tvg-name="Grit Xtra" group-title="ION Channels",Grit Xtra
+https://wurlewscripps.global.transmit.live/hls/68f6af393617a3dcae3e8c17/v1/scripps_gritxtra_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Court TV" group-title="ION Channels",Court TV
+https://wurllawnewz.global.transmit.live/hls/6a5e973c0087b16677759edb/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Scripps News" group-title="ION Channels",Scripps News
+https://wurlewscripps.global.transmit.live/hls/68faa73efbc5325e16c2ba0a/v1/scripps_newsy_3/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Charge" group-title="Sinclair Channels",Charge
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us" group-title="Live Channels",Comet
+#EXTINF:-1 tvg-name="Comet" group-title="Sinclair Channels",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="TheNest.us" group-title="Live Channels",The Nest
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="Roar.us" group-title="Live Channels",Roar
+#EXTINF:-1 tvg-name="Roar" group-title="Sinclair Channels",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.us" group-title="Live Channels",MeTV Network
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 tvg-id="Movies!.us" group-title="Live Channels",Movies!
-https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
-#EXTINF:-1 tvg-id="StoryTelevision.us" group-title="Live Channels",Story Television
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroTV.us" group-title="Live Channels",Retro TV
+#EXTINF:-1 tvg-name="The Nest" group-title="Sinclair Channels",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-name="Retro TV" group-title="Luken TV Channels",Retro TV
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
-#EXTINF:-1 tvg-id="HeartlandTV.us" group-title="Live Channels",Heartland
+#EXTINF:-1 tvg-name="Heartland TV" group-title="Luken TV Channels",Heartland TV
 https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8
-#EXTINF:-1 tvg-id="HitSitcoms.pluto" group-title="Live Channels",Hit Sitcoms
-https://live-manifest.production-public.tubi.io/live/6b33d5c1-455e-4616-92a8-761fe87711e8/playlist.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" group-title="Live Channels",Court TV
-https://live-manifest.production-public.tubi.io/live/a0044921-4b6f-4e55-bf67-d51471db8b3f/playlist.m3u8
-#EXTINF:-1 tvg-id="BUZZR.us" group-title="Live Channels",Buzzr!
-https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8
-#EXTINF:-1 tvg-id="GameShowCentral.us" group-title="Live Channels",Game Shows Central
-https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us" group-title="Live Channels",Comedy Dynamics
-https://live-manifest.production-public.tubi.io/live/f35167dd-e5c5-4ab4-8741-85e9bfcb0192/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us" group-title="Live Channels",FailArmy
-https://live-manifest.production-public.tubi.io/live/5fd9c7cd-53e4-445e-81c9-6bc717e0bcb7/playlist.m3u8
-#EXTINF:-1 tvg-id="LOLNetwork.us" group-title="Live Channels",LOL Network
-https://live-manifest.production-public.tubi.io/live/0bd86fc8-d100-4653-be35-26a466381a55/playlist.m3u8
-#EXTINF:-1 tvg-id="AtTheMovies.us" group-title="Live Channels",At the Movies
-https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="Live Channels",ABC News
-https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" group-title="Live Channels",NBC News Now
-https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" group-title="Live Channels",Newsmax
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="Live Channels",Livenow from FOX
-https://live-manifest.production-public.tubi.io/live/8127bb63-a43e-4859-8681-7c1ad6192796/playlist.m3u8
-#EXTINF:-1 tvg-id="ScrippsNews.us" group-title="Live Channels",Scripps News
-https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsXtra.us" group-title="Live Channels",Bein Sports Xtra
-https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8
-#EXTINF:-1 tvg-id="ScrippsSportsNetwork.us" group-title="Live Channels",Scripps Sports Network
-https://live-manifest.production-public.tubi.io/live/001d9604-4483-4da4-9504-dc20fa2cd168/playlist.m3u8
-#EXTINF:-1 tvg-id="WatchAEW.us" group-title="Live Channels",Watch AEW
-https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d62684f51a7/playlist.m3u8
+#EXTINF:-1 tvg-name="Rev'N Action" group-title="Luken TV Channels",Rev'N Action
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-name="PBS Baltimore MD" group-title="PBS Channels",PBS Baltimore MD
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS Louisville KY" group-title="PBS Channels",PBS Louisville KY
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS-Create Baltimore MD" group-title="PBS Channels",PBS-Create Baltimore MD
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS Create" group-title="PBS Channels",PBS Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="PBS FNX" group-title="PBS Channels",PBS FNX
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="PBS World" group-title="PBS Channels",PBS World
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="KPVM IND" group-title="Over the Air Channels",KPVM IND
+https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM AWE Plus" group-title="Over the Air Channels",KPVM AWE Plus
+https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KVPM Movies" group-title="Over the Air Channels",KVPM Movies
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM NewsMax 2" group-title="Over the Air Channels",KPVM NewsMax 2
+https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM OAN News" group-title="Over the Air Channels",KPVM OAN News
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM Real American Voice" group-title="Over the Air Channels",KPVM Real American Voice
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM Story Television" group-title="Over the Air Channels",KPVM Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dr Phil Merit TV" group-title="Fast TV Channels",Dr Phil Merit TV
+https://aka-live1050.delivery.roku.com/2a0b0320-fd7b-4e29-8e11-474fbe77b870/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="Curiosity Now" group-title="Fast TV Channels",Curiosity Now
+https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="History & Warfare" group-title="Fast TV Channels",History & Warfare
+https://amg01515-amg01515c89-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01515-amg01515c89-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-name="Reelz Famous & Infamous" group-title="Fast TV Channels",Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Racer Select" group-title="Fast TV Channels",Racer Select
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Western Bound Wrangled by INSP" group-title="Fast TV Channels",Western Bound Wrangled by INSP
+https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
+#EXTINF:-1 tvg-name="Great American RomComs" group-title="Fast TV Channels",Great American RomComs
+https://aka-live1050.delivery.roku.com/2a0f3714-ef88-4e74-800b-405a056bea7d/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="TruBlu" group-title="Fast TV Channels",TruBlu
+https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
+#EXTINF:-1 tvg-name="Law & Crime" group-title="Fast TV Channels",Law & Crime
+https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Buzzr!" group-title="Fast TV Channels",Buzzr!
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="American Stories" group-title="Fast TV Channels",American Stories
+https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="H2O TV" group-title="Fast TV Channels",H2O TV
+https://linear-738.frequency.stream/dist/stirr/738/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade Home" group-title="Fast TV Channels",Tastemade Home
+https://aka-live1050.delivery.roku.com/657471b0-8782-43cd-8b62-a33e43057e9a/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="Tastemade Food" group-title="Fast TV Channels",Tastemade Food
+https://aka-live1050.delivery.roku.com/6d1019f7-7a46-480e-8d97-bf321784851c/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="InWonder" group-title="Fast TV Channels",InWonder
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="InTrouble" group-title="Fast TV Channels",InTrouble
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="PursuitUP" group-title="Fast TV Channels",PursuitUP
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE Plus" group-title="Fast TV Channels",AWE Plus
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dove Channel" group-title="Fast TV Channels",Dove Channel
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Moviesphere" group-title="Fast TV Channels",Moviesphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Homeful" group-title="Fast TV Channels",Homeful
+https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fast TV Channels",The Design Network
+https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Sports" group-title="Fast TV Channels",FOX Sports
+https://aka-live1050.delivery.roku.com/0f146443-6896-4eeb-aa2d-ac0732aec7b5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="TNA Wresting" group-title="Fast TV Channels",TNA Wresting
+https://aka-live1050.delivery.roku.com/00c75b40-02b2-4c11-9bd9-98be0b8600e8/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="Watch AEW" group-title="Fast TV Channels",Watch AEW
+https://aka-live1050.delivery.roku.com/6fb14dd8-e43e-47cd-b20b-2a2dbc584f1d/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="WWE NXT Wresting" group-title="Fast TV Channels",WWE NXT Wresting
+https://aka-live1050.delivery.roku.com/34b065a4-682e-4e46-97f1-5c9a26aab12a/t2-origin/out/v1/live.m3u8
+
